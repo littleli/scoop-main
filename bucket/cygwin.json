@@ -1,5 +1,5 @@
 {
-    "version": "2.940",
+    "version": "2.941",
     "description": "A large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows.",
     "homepage": "https://cygwin.com",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://cygwin.com/setup/setup-2.940.x86_64.exe#/cygwin-setup.exe",
-            "hash": "sha512:83dc0f410a9bf48467b9ec8482ae5f1c704b92a8ab1668c652c38ca56d4f887d647ee9a2272af1463da1113f9d9902ba3084ba2b7cfcdfd97d1359bbe488d228"
+            "url": "https://cygwin.com/setup/setup-2.941.x86_64.exe#/cygwin-setup.exe",
+            "hash": "sha512:9bbbd4de497842446af58af875590ace5d8fa3c557cd7e27328569dfa68e58213da1cc1a6fb7102d4f0f01be38e0b92c6fa74f61b6eb7351a0481ca4bd9e8781"
         },
         "32bit": {
-            "url": "https://cygwin.com/setup/setup-2.940.x86.exe#/cygwin-setup.exe",
-            "hash": "sha512:f25e67a4acc82ac777ed75152da19a169b9ead518a286ffb5b39f4fc9f7df5607cc03907f143f13a6ed205b0bfc6fc6bcbf91df6995e94c98705828ec8f69609"
+            "url": "https://cygwin.com/setup/setup-2.941.x86.exe#/cygwin-setup.exe",
+            "hash": "sha512:d64a0c99369e6284855bd7747e5d6697b470ac96cfb509480d183c5b1e8dc5a61a5962adf72bd70f4ba94a7e2b03875e7d0d1e8d4247ee4e3f1f43b8d59262a9"
         }
     },
     "installer": {
