@@ -1,5 +1,5 @@
 {
-    "version": "0.5.1664",
+    "version": "0.5.1665",
     "description": "Native TypeScript compiler — compiles .ts directly to native executables via LLVM.",
     "homepage": "https://www.perryts.com",
     "license": "MIT",
@@ -15,8 +15,8 @@
     "depends": "main/llvm",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/PerryTS/perry/releases/download/v0.5.1664/perry-windows-x86_64.zip",
-            "hash": "8b8c3e1f0e58ea8583f4cd866ee66b1a2fd9864770e05c628cdf8200ef898cfd"
+            "url": "https://github.com/PerryTS/perry/releases/download/v0.5.1665/perry-windows-x86_64.zip",
+            "hash": "0677ab51c2851ccfb47afcb2b41b0dcdd24e5af0387b44748820931829481298"
         }
     },
     "bin": "perry.exe",
